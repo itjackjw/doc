@@ -1,0 +1,28 @@
+{
+  "name": "itjackjw/yii2-doc",
+  "description": "能够将yii2的api以html文件导出，以及相关的测试",
+  "keywords": ["yii2", "phpdoc", "apidoc", "api", "documentation"],
+  "minimum-stability": "dev",
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "itjack",
+      "email": "1092428238@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "itjack\\apidoc\\": "src/"
+    },
+    "files": [
+
+    ]
+  },
+  "extra": {
+
+  }
+}
